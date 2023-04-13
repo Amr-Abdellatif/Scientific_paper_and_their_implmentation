@@ -17,3 +17,12 @@ And the filter will be the following matrix:
 ## how CONVOLUTION works :
 ![1_VJCoCYjnjBBtWDLrugCBYQ](https://user-images.githubusercontent.com/92921252/231789315-db1860ba-c4aa-4f6c-818e-bb78837ab39e.gif)
 
+## Maxpooling :
+
+Maxpooling consist of extracting features from input feature map and outputig maximum value of each channel.
+
+![1_Ziqq69FhwOAbBi9-FNruAA](https://user-images.githubusercontent.com/92921252/231790840-99a8a7db-fabf-48a4-8e9b-b7a245b4fc04.png)
+
+## padding = zero 
+
+![1_O06nY1U7zoP4vE5AZEnxKA](https://user-images.githubusercontent.com/92921252/231793881-14366d3e-e73b-42f9-b745-40c18fa0e5cf.gif)
