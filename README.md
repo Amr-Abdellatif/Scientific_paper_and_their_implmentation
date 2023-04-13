@@ -8,6 +8,8 @@ The convolution operation is the building block of a convolutional neural networ
 
 
 And the filter will be the following matrix:
+
+
 ![1_591OPcvDKUN9liZ_VQ1M5g](https://user-images.githubusercontent.com/92921252/231789869-3081a327-7187-4897-8e18-962dcf906d4f.png)
 
 
