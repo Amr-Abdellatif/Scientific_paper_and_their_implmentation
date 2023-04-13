@@ -1,1 +1,0 @@
-# Scientific_papers_and_their_implementation
