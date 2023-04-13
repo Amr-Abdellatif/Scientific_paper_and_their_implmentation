@@ -25,4 +25,6 @@ Maxpooling consist of extracting features from input feature map and outputig ma
 
 ## padding = zero 
 
+we add zero frame pixels around the image so we don't lose any information in the edges it's called zero padding
+
 ![1_O06nY1U7zoP4vE5AZEnxKA](https://user-images.githubusercontent.com/92921252/231793881-14366d3e-e73b-42f9-b745-40c18fa0e5cf.gif)
