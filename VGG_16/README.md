@@ -24,4 +24,5 @@ It is widely used as a base model for transfer learning in computer vision appli
 
 ![config2](https://user-images.githubusercontent.com/92921252/232010784-256edacb-a32f-4412-aecb-e99900598cec.jpg)
 
+### Dataset used : https://www.kaggle.com/datasets/tongpython/cat-and-dog
 
