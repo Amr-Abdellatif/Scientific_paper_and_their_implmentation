@@ -1,7 +1,5 @@
 # Scientific_papers_and_their_implementation
 
-## This is a part of my Master's Degree Work
-
 ## lets talk about science
 
 ### A brief intro to CNN :
