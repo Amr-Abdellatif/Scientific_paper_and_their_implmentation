@@ -1,5 +1,8 @@
 # Scientific_papers_and_their_implementation
 
+## youtube explanation playlist in arabic
+https://www.youtube.com/playlist?list=PLhBhgortqAchR5-n6XT73BSdIfCISwAEw
+
 ## lets talk about science
 
 ### A brief intro to CNN :
